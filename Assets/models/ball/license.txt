@@ -1,0 +1,11 @@
+Model Information:
+* title:	fifa world cup ball
+* source:	https://sketchfab.com/3d-models/fifa-world-cup-ball-45b805a34787410296ac766a2de3aec4
+* author:	farhad.Guli (https://sketchfab.com/farhad.Guli)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "fifa world cup ball" (https://sketchfab.com/3d-models/fifa-world-cup-ball-45b805a34787410296ac766a2de3aec4) by farhad.Guli (https://sketchfab.com/farhad.Guli) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
